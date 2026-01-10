@@ -49,6 +49,6 @@ Build error loading wrong scene → fixed by setting MainScene in Build Settings
 
 
 
-📜 License
+ License
 
 This project is for educational purposes only.
