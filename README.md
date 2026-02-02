@@ -7,7 +7,7 @@ The app scans a college ID card (used as a marker) and augments it with interact
 
 📷 Marker-based AR scanning using Vuforia.
 
-👤 3D Avatar integration with animations.
+👤 3D Avatar integration with animations.    
 
 🔗 Clickable links (LinkedIn, Codilio, Projects) opening in browser.
 
