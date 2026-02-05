@@ -3,7 +3,7 @@
 An Augmented Reality (AR) mobile application built with Unity 2022 LTS and Vuforia Engine.
 The app scans a college ID card (used as a marker) and augments it with interactive clickable elements such as LinkedIn, Codilio, and project links. A 3D avatar generated via Ready Player Me is also placed on the marker with animations.
 
-✨ Features
+✨ Features    
 
 📷 Marker-based AR scanning using Vuforia.
 
